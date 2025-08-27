@@ -10,8 +10,7 @@ Here you'll find my projects, contributions, and interests in software developme
 - 🛠️ Experienced with GitHub, open source, and collaborative development
 
 ## 🧰 Technologies & Tools
-
-- Programming Languages: (Add your preferred languages here, e.g., Python, JavaScript, Java)
+- Programming Languages: (Python, JavaScript, Java)
 - Tools: Git, VS Code, Docker, etc.
 - Frameworks/Libraries: (Add your frameworks here, e.g., React, Django, Node.js)
 
@@ -21,9 +20,8 @@ Here you'll find my projects, contributions, and interests in software developme
 
 ## 📫 How to reach me
 
-- Email: (Add your email or preferred contact here)
-- LinkedIn: (Add your LinkedIn profile link)
-- Twitter: (Add your Twitter handle, if any)
+- Email: (shathruknas94@gmail.com)
+- LinkedIn: (www.linkedin.com/in/shathrukna-s-406b2030b)
 
 ## 🔗 Featured Projects
 
